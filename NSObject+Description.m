@@ -2,8 +2,8 @@
 //  NSObject+Description.m
 //  cli
 //
-//  Created by pardnoj on 18/01/2015.
-//  Copyright (c) 2015 pardnoj. All rights reserved.
+//  Created by tailec on 18/01/2015.
+//  Copyright (c) 2015 tailec. All rights reserved.
 //
 
 #import "NSObject+Description.h"
